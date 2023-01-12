@@ -1,0 +1,1 @@
+springboot-JPA 스터디를 위한 테스트파일입니다.
